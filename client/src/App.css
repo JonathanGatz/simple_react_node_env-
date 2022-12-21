@@ -1,0 +1,17 @@
+.head {
+  background-color: beige;
+  color: rgb(13, 81, 81);
+  text-decoration: underline;
+}
+
+.container {
+  background-color: bisque;
+  align-items: center;
+}
+
+.row {
+  color: rgb(11, 97, 97);
+  margin-left: 20%;
+  margin-top: 5%;
+  align-items: center;
+}
